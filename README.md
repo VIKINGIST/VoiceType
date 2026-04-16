@@ -36,8 +36,7 @@ Local voice input for Windows. Press a hotkey — speak — text appears in any 
 ### Installer (recommended)
 
 1. Download:
-    **[VoiceType-Setup.exe](https://github.com/VIKINGIST/VoiceType/releases/download/v1.0.0/VoiceType-Setup.exe)** (~900 MB)
-    **[VoiceType-1.0-Portable.zip ](https://github.com/VIKINGIST/VoiceType/releases/download/v1.0.0/VoiceType-1.0-Portable.zip)** (~1.32 GB)
+    **[VoiceType-Setup.exe](https://github.com/VIKINGIST/VoiceType/releases/download/v1.0.0/VoiceType-Setup.exe)** (~900 MB) || **[VoiceType-1.0-Portable.zip ](https://github.com/VIKINGIST/VoiceType/releases/download/v1.0.0/VoiceType-1.0-Portable.zip)** (~1.32 GB)
 3. Run the installer, choose installation folder
 4. Select options: desktop shortcut, Start Menu, autostart
 5. Done
