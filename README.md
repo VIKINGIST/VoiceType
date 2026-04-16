@@ -35,10 +35,12 @@ Local voice input for Windows. Press a hotkey — speak — text appears in any 
 
 ### Installer (recommended)
 
-1. Download **[VoiceType-Setup.exe](https://github.com/VIKINGIST/VoiceType/releases)** (~1.3 GB)
-2. Run the installer, choose installation folder
-3. Select options: desktop shortcut, Start Menu, autostart
-4. Done
+1. Download:
+    **[VoiceType-Setup.exe](https://github.com/VIKINGIST/VoiceType/releases/download/v1.0.0/VoiceType-Setup.exe)** (~900 MB)
+    **[VoiceType-1.0-Portable.zip ](https://github.com/VIKINGIST/VoiceType/releases/download/v1.0.0/VoiceType-1.0-Portable.zip)** (~1.32 GB)
+3. Run the installer, choose installation folder
+4. Select options: desktop shortcut, Start Menu, autostart
+5. Done
 
 > On first launch, the app will prompt to download the Whisper model (~1.5 GB) from the internet. Subsequent launches use the cached model — startup takes 5-10 seconds.
 
