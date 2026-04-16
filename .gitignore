@@ -1,0 +1,54 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Logs
+logs/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Installer output
+installer_output/
+
+# Shortcuts
+*.lnk
+start.bat
+
+# Claude Code (local dev context, not project code)
+CLAUDE.md
+.claude/
+.mcp.json
+
+# Worktrees
+.worktrees/
+
+# Models cache (downloaded at runtime)
+models/
+
+# MCP artifacts
+.codebase-memory/
+
+# User config (contains API keys)
+config.yaml

@@ -1,0 +1,20 @@
+[project]
+name = "voicetype"
+version = "1.0.0"
+description = "Local voice input for Windows — Whisper ONNX via sherpa-onnx"
+requires-python = ">=3.12"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+src = ["voicetype", "scripts"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = [
+    "E501",   # line too long — handled by formatter
+    "F401",   # unused import — часто потрібні для PyInstaller hidden-imports
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["voicetype"]
